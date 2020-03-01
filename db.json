@@ -89,5 +89,34 @@
         "backOrderable": false
       }
     ]
-  }
+  },
+  "dataList": [
+    {
+      "itemSku": "",
+      "name": "Lowe's",
+      "price": 62.89,
+      "priceChange": 0,
+      "itemDescription": "",
+      "itemImageUrl": "",
+      "lastUpdateTime": ""
+    },
+    {
+      "itemSku": "",
+      "name": "Ace",
+      "price": 70.64,
+      "priceChange": 0,
+      "itemDescription": "",
+      "itemImageUrl": "",
+      "lastUpdateTime": ""
+    },
+    {
+      "itemSku": "",
+      "name": "Smith Hardware",
+      "price": 78.48,
+      "priceChange": 0,
+      "itemDescription": "",
+      "itemImageUrl": "",
+      "lastUpdateTime": ""
+    }
+  ]
 }
