@@ -8,6 +8,40 @@
   "profile": {
     "name": "typicode"
   },
+  "products":[
+    {
+      "id": 1,
+      "productName": "Toilet Paper"
+    },
+    {
+      "id": 2,
+      "productName": "Paper towels"
+    },
+    {
+      "id": 3,
+      "productName": "Hand Sanitizer"
+    },
+    {
+      "id": 4,
+      "productName": "N-95 Masks"
+    },
+    {
+      "id": 5,
+      "productName": "Surgical Masks"
+    },
+    {
+      "id": 6,
+      "productName": "Gloves"
+    },
+    {
+      "id": 7,
+      "productName": "Hand Soap"
+    },
+    {
+      "id": 8,
+      "productName": "Tylenol"
+    }
+  ],
   "hammer": {
     "resultCount": 8,
     "startIndex": 0,
