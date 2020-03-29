@@ -1,12 +1,72 @@
 {
   "search": [
     {
-      "id":1
+        "_id": "5e80fd7437b1532b6d4de8b8",
+        "products": {
+            "inStock": [
+                "masks",
+                "sanitaryPads"
+            ],
+            "outOfStock": []
+        },
+        "address": {
+            "street": "1801 Howell Mill Rd NW",
+            "city": "Atlanta",
+            "state": "GA",
+            "zip": 30339
+        },
+        "businessHours": {
+            "open": "6:00 AM",
+            "close": "6:00 PM"
+        },
+        "location": {
+            "coordinates": [
+                33.803135,
+                -84.41160359999999
+            ],
+            "type": "Point"
+        },
+        "phone": "(770) 431-1700",
+        "storeName": "Walmart howell",
+        "__v": 0,
+        "distance": 4.746176566491969
     },
     {
-      "id":2
-    }  
-  ],
+        "_id": "5e8102073825f73a214d700b",
+        "products": {
+            "inStock": [
+                "tissuePaper",
+                "bottledWater",
+                "gloves",
+                "masks"
+            ],
+            "outOfStock": [
+                "masks"
+            ]
+        },
+        "address": {
+            "street": "2855 Jordan Ct",
+            "city": "Alpharetta",
+            "state": "GA",
+            "zip": 30004
+        },
+        "businessHours": {
+            "open": "6:00 AM",
+            "close": "6:00 PM"
+        },
+        "location": {
+            "coordinates": [
+                33.8556245,
+                -84.5868304
+            ],
+            "type": "Point"
+        },
+        "phone": "(770) 431-1700",
+        "storeName": "Costco Alpharetta",
+        "__v": 0,
+        "distance": 7.401240707536991
+    }
+],
   "products":[
     {
       "id": 1,
