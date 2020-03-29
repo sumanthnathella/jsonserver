@@ -10,44 +10,36 @@
   "products":[
     {
       "id": 1,
-      "productName": "Toilet Paper",
-      "imageUrl":"https://images.homedepot-static.com/productImages/2dcb25a8-8e28-483c-a676-8e90727b9bc7/svn/charmin-toilet-paper-003700099547-64_400.jpg"
+      "productName": "HAND WASH",
+      "imageUrl":"assets/icon-handwash.svg"
     },
     {
       "id": 2,
-      "productName": "Paper towels",
-      "imageUrl":"https://images.homedepot-static.com/productImages/2dcb25a8-8e28-483c-a676-8e90727b9bc7/svn/charmin-toilet-paper-003700099547-64_400.jpg"
+      "productName": "GLOVES",
+      "imageUrl":"assets/icon-gloves.svg"
     },
     {
       "id": 3,
-      "productName": "Hand Sanitizer",
-      "imageUrl":"https://images.homedepot-static.com/productImages/2dcb25a8-8e28-483c-a676-8e90727b9bc7/svn/charmin-toilet-paper-003700099547-64_400.jpg"
+      "productName": "MASKS",
+      "imageUrl":"assets/icon-mask.svg"
     },
     {
       "id": 4,
-      "productName": "N-95 Masks",
-      "imageUrl":"https://images.homedepot-static.com/productImages/2dcb25a8-8e28-483c-a676-8e90727b9bc7/svn/charmin-toilet-paper-003700099547-64_400.jpg"
+      "productName": "TOILET PAPER",
+      "imageUrl":"assets/icon-tp.svg"
     },
     {
       "id": 5,
-      "productName": "Surgical Masks",
-      "imageUrl":"https://images.homedepot-static.com/productImages/2dcb25a8-8e28-483c-a676-8e90727b9bc7/svn/charmin-toilet-paper-003700099547-64_400.jpg"
+      "productName": "BOTTLED WATER",
+      "imageUrl":"assets/icon-water.svg"
     },
     {
       "id": 6,
-      "productName": "Gloves",
-      "imageUrl":"https://images.homedepot-static.com/productImages/2dcb25a8-8e28-483c-a676-8e90727b9bc7/svn/charmin-toilet-paper-003700099547-64_400.jpg"
+      "productName": "SANITARY PAD",
+      "imageUrl":"assets/icon-sp.svg"
     },
-    {
-      "id": 7,
-      "productName": "Hand Soap",
-      "imageUrl":"https://images.homedepot-static.com/productImages/2dcb25a8-8e28-483c-a676-8e90727b9bc7/svn/charmin-toilet-paper-003700099547-64_400.jpg"
-    },
-    {
-      "id": 8,
-      "productName": "Tylenol",
-      "imageUrl":"https://images.homedepot-static.com/productImages/2dcb25a8-8e28-483c-a676-8e90727b9bc7/svn/charmin-toilet-paper-003700099547-64_400.jpg"
-    }
+    
+  
   ],
   "hammer": {
     "resultCount": 8,
