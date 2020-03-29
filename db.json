@@ -16,27 +16,27 @@
     {
       "id": 2,
       "productName": "GLOVES",
-      "imageUrl":"assets/icon-gloves.svg"
+      "imageUrl":"icon-gloves"
     },
     {
       "id": 3,
       "productName": "MASKS",
-      "imageUrl":"assets/icon-mask.svg"
+      "imageUrl":"icon-mask"
     },
     {
       "id": 4,
       "productName": "TOILET PAPER",
-      "imageUrl":"assets/icon-tp.svg"
+      "imageUrl":"icon-tp"
     },
     {
       "id": 5,
       "productName": "BOTTLED WATER",
-      "imageUrl":"assets/icon-water.svg"
+      "imageUrl":"icon-water"
     },
     {
       "id": 6,
       "productName": "SANITARY PAD",
-      "imageUrl":"assets/icon-sp.svg"
+      "imageUrl":"icon-sp"
     }
   ],
   "hammer": {
